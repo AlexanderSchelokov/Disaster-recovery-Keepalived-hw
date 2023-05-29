@@ -43,4 +43,7 @@
 ![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/bbf12ac9-3c85-4f27-9df7-5f0b6818e60a)
 
 На проверку отправьте получившейся bash-скрипт и конфигурационный файл keepalived, а также скриншот с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html
+![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/fe90e3b2-6c4d-4ec0-a82d-c0b7ae9d8831)
+![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/aa7fbafa-3858-49b2-a598-fce9e8972c6f)
+
 

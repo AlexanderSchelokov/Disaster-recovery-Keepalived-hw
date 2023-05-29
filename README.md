@@ -37,8 +37,9 @@
 Настройте Keepalived так, чтобы он запускал данный скрипт каждые 3 секунды и переносил виртуальный IP на другой сервер, если bash-скрипт завершался с кодом, отличным от нуля (то есть порт веб-сервера был недоступен или отсутствовал index.html). Используйте для этого секцию vrrp_script
 ![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/73eca8ae-134c-4b0d-8d62-47e9dda82785)
 ![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/5a26bd94-edc9-483d-a82b-022f45bd4e39)
+![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/18500ba5-5a4e-4ed1-a18b-8aab2778695b)
 
-![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/8a33d8c9-81af-450d-b01f-fa06a70ff364)
+
 
 
 

@@ -26,10 +26,12 @@
 
 Настройте любой веб-сервер (например, nginx или simple python server) на двух виртуальных машинах
 
-![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/e6a5c5b0-20c3-4613-8fe6-a98871bc560d)
+![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/8b14ef47-9f4a-47c8-ba9f-86a6cc1a3211)
+![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/b2956d71-23ba-4f02-a21d-0f861a47dc63)
+
 ![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/cb30d3ef-1dfb-4b10-b808-aaca3b5c6eab)
 ![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/6520b392-6bb9-441e-a660-88dff9843b95)
-![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/eeda2e8e-214c-4aa6-9a5c-42c99988d649)
+
 
 
 Напишите Bash-скрипт, который будет проверять доступность порта данного веб-сервера и существование файла index.html в root-директории данного веб-сервера.

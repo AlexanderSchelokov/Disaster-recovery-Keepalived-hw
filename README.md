@@ -38,17 +38,7 @@
 ![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/73eca8ae-134c-4b0d-8d62-47e9dda82785)
 ![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/5a26bd94-edc9-483d-a82b-022f45bd4e39)
 ![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/18500ba5-5a4e-4ed1-a18b-8aab2778695b)
-![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/8fbfeb4f-123c-428a-802d-1e3a0ae70b47)
-
-
-
-
-
-
-![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/9bba73c2-2b1f-4f20-b151-eb1b25fc2351)
-![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/8aeb4105-f41b-43ca-a3aa-40a7dc03fda3)
-
-
+![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/bbf12ac9-3c85-4f27-9df7-5f0b6818e60a)
 
 На проверку отправьте получившейся bash-скрипт и конфигурационный файл keepalived, а также скриншот с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html
 

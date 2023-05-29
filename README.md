@@ -28,6 +28,9 @@
 
 ![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/e6a5c5b0-20c3-4613-8fe6-a98871bc560d)
 ![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/cb30d3ef-1dfb-4b10-b808-aaca3b5c6eab)
+![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/6520b392-6bb9-441e-a660-88dff9843b95)
+![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/eeda2e8e-214c-4aa6-9a5c-42c99988d649)
+
 
 Напишите Bash-скрипт, который будет проверять доступность порта данного веб-сервера и существование файла index.html в root-директории данного веб-сервера.
 Настройте Keepalived так, чтобы он запускал данный скрипт каждые 3 секунды и переносил виртуальный IP на другой сервер, если bash-скрипт завершался с кодом, отличным от нуля (то есть порт веб-сервера был недоступен или отсутствовал index.html). Используйте для этого секцию vrrp_script

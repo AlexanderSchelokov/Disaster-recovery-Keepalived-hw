@@ -38,6 +38,8 @@
 ![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/73eca8ae-134c-4b0d-8d62-47e9dda82785)
 ![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/5a26bd94-edc9-483d-a82b-022f45bd4e39)
 ![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/18500ba5-5a4e-4ed1-a18b-8aab2778695b)
+![image](https://github.com/AlexanderSchelokov/Disaster-recovery-Keepalived-hw/assets/121572590/8fbfeb4f-123c-428a-802d-1e3a0ae70b47)
+
 
 
 
